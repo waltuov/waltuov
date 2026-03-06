@@ -1,17 +1,12 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=waltuov&fontSize=80&fontColor=c9d1d9&fontAlignY=35&animation=fadeIn&descSize=18&descColor=58a6ff&descAlignY=55" width="100%" />
+<img src="https://raw.githubusercontent.com/waltuov/waltuov/main/header.svg" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=security+%C2%B7+ecommerce+%C2%B7+whatever+looks+fun;i+just+like+building+stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=435&height=30&lines=i+just+like+building+stuff" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<!-- QUICK LINKS -->
-[![GitHub](https://img.shields.io/badge/GitHub-waltuov-0d1117?style=flat&logo=github&logoColor=c9d1d9)](https://github.com/waltuov)
 
 </div>
 
