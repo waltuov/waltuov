@@ -1,7 +1,7 @@
-<div align="center">
-
 <!-- HEADER -->
-<img src="https://raw.githubusercontent.com/waltuov/waltuov/main/header.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0d1117&height=180&section=header&text=waltu&fontSize=70&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38" width="100%" />
+
+<div align="center">
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
