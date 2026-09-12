@@ -28,7 +28,7 @@ mostly working across web, ecommerce, and security.
 
 **LLM inference engineering / GPU system integrations**
 
-engineered and optimized local AI inference on **4× PRO 6000 Blackwell GPUs using CUDA**, deploying and operating large open-weight MoE models.
+deployed, operated, and tuned large open-weight MoE models for local AI inference across **4× PRO 6000 Blackwell GPUs**.
 
 - **serving & optimization** — quantization selection, SGLang/FlashInfer serving, tensor parallelism, speculative decoding, and long-context caching.
 - **deployment & operations** — benchmarking, security review, and reproducible cloud deployment.
@@ -53,7 +53,7 @@ describe an interface, refine it in chat, and sync the editable result into your
   </tr>
   <tr>
     <td width="170" height="44"><strong>GPU Systems</strong></td>
-    <td><img alt="CUDA" src="https://img.shields.io/badge/CUDA-0d1117?style=flat&amp;logo=nvidia&amp;logoColor=76B900" /> <img alt="Blackwell" src="https://img.shields.io/badge/Blackwell-0d1117?style=flat&amp;logo=nvidia&amp;logoColor=76B900" /><br/>
+    <td><img alt="Blackwell" src="https://img.shields.io/badge/Blackwell-0d1117?style=flat&amp;logo=nvidia&amp;logoColor=76B900" /><br/>
     4× PRO 6000 GPUs · tensor parallelism · local inference optimization · benchmarking</td>
   </tr>
   <tr>
