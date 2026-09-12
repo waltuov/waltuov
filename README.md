@@ -28,7 +28,7 @@ mostly working across web, ecommerce, and security.
 
 **LLM inference engineering / GPU system integrations**
 
-deployed and operated large open-weight MoE models on multi-GPU Blackwell infrastructure.
+engineered and optimized local AI inference on **4× PRO 6000 Blackwell GPUs using CUDA**, deploying and operating large open-weight MoE models.
 
 - **serving & optimization** — quantization selection, SGLang/FlashInfer serving, tensor parallelism, speculative decoding, and long-context caching.
 - **deployment & operations** — benchmarking, security review, and reproducible cloud deployment.
