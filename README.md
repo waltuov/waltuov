@@ -18,31 +18,38 @@
 ## `> whoami`
 
 ```
-i mess with a bit of everything — security, ecommerce, automation, ai.
-i learn by building things i actually want to use.
-if something catches my attention, i figure it out and run with it.
+i build with ai, automate what i can, and pick up whatever the project needs.
+mostly working across web, ecommerce, and security.
 ```
 
 <br/>
 
-## `> tech --list`
+## `> projects`
+
+**[Bloxsmith](https://bloxsmith.net)** — ai ui generation for roblox studio.
+
+describe an interface, refine it in chat, and sync the editable result into your game.
+
+<br/>
+
+## `> toolkit`
 
 <table width="100%">
   <tr>
-    <td width="170" height="52"><strong>Languages</strong></td>
-    <td><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=3776AB" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=F7DF1E" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat&logo=typescript&logoColor=3178C6" /> <img alt="Bash" src="https://img.shields.io/badge/Bash-0d1117?style=flat&logo=gnubash&logoColor=4EAA25" /> <img alt="C++" src="https://img.shields.io/badge/C++-0d1117?style=flat&logo=cplusplus&logoColor=00599C" /> <img alt="Rust" src="https://img.shields.io/badge/Rust-0d1117?style=flat&logo=rust&logoColor=DEA584" /></td>
+    <td width="170" height="44"><strong>AI &amp; Automation</strong></td>
+    <td><img alt="Codex" src="https://img.shields.io/badge/Codex-0d1117?style=flat&amp;logoColor=c9d1d9" /> <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-0d1117?style=flat&logo=openai&logoColor=c9d1d9" /> <img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=3776AB" /> <img alt="Bash" src="https://img.shields.io/badge/Bash-0d1117?style=flat&logo=gnubash&logoColor=4EAA25" /></td>
   </tr>
   <tr>
-    <td width="170" height="52"><strong>Web &amp; Commerce</strong></td>
-    <td><img alt="React" src="https://img.shields.io/badge/React-0d1117?style=flat&logo=react&logoColor=61DAFB" /> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0d1117?style=flat&logo=nextdotjs&logoColor=c9d1d9" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=flat&logo=nodedotjs&logoColor=5FA04E" /> <img alt="Shopify" src="https://img.shields.io/badge/Shopify-0d1117?style=flat&logo=shopify&logoColor=7AB55C" /> <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-0d1117?style=flat&logo=tailwindcss&logoColor=06B6D4" /></td>
+    <td width="170" height="44"><strong>Web &amp; Commerce</strong></td>
+    <td><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat&logo=typescript&logoColor=3178C6" /> <img alt="React" src="https://img.shields.io/badge/React-0d1117?style=flat&logo=react&logoColor=61DAFB" /> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0d1117?style=flat&logo=nextdotjs&logoColor=c9d1d9" /> <img alt="Shopify" src="https://img.shields.io/badge/Shopify-0d1117?style=flat&logo=shopify&logoColor=7AB55C" /></td>
   </tr>
   <tr>
-    <td width="170" height="52"><strong>Security &amp; Infra</strong></td>
-    <td><img alt="Linux" src="https://img.shields.io/badge/Linux-0d1117?style=flat&logo=linux&logoColor=FCC624" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=2496ED" /> <img alt="Kali" src="https://img.shields.io/badge/Kali-0d1117?style=flat&logo=kalilinux&logoColor=557C94" /> <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-0d1117?style=flat&logo=wireshark&logoColor=1679A7" /> <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-0d1117?style=flat&logo=portswigger&logoColor=FF6633" /></td>
+    <td width="170" height="44"><strong>Infra &amp; Data</strong></td>
+    <td><img alt="Linux" src="https://img.shields.io/badge/Linux-0d1117?style=flat&logo=linux&logoColor=FCC624" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=2496ED" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=4169E1" /></td>
   </tr>
   <tr>
-    <td width="170" height="52"><strong>AI &amp; Data</strong></td>
-    <td><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-0d1117?style=flat&logo=openai&logoColor=c9d1d9" /> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0d1117?style=flat&logo=pytorch&logoColor=EE4C2C" /> <img alt="LangChain" src="https://img.shields.io/badge/LangChain-0d1117?style=flat&logo=langchain&logoColor=1C3C3C" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=4169E1" /></td>
+    <td width="170" height="44"><strong>Security</strong></td>
+    <td><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-0d1117?style=flat&logo=wireshark&logoColor=1679A7" /> <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-0d1117?style=flat&logo=portswigger&logoColor=FF6633" /></td>
   </tr>
 </table>
 
