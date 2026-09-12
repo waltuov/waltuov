@@ -58,11 +58,12 @@
 
 <br/>
 
-## `> stats --graph`
+<details>
+<summary><code>&gt; stats</code></summary>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=waltuov&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=484F58" width="95%" alt="GitHub contribution streak" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=waltuov&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=484F58" width="400" alt="GitHub contribution streak" />
+
+</details>
 
 <br/>
 
