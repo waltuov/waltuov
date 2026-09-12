@@ -17,11 +17,11 @@
 
 ## `> whoami`
 
-<blockquote>
-  <p><samp>i mess with a bit of everything — security, ecommerce, automation, ai.</samp></p>
-  <p><samp>i learn by building things i actually want to use.<br/>
-  if something catches my attention, i figure it out and run with it.</samp></p>
-</blockquote>
+```
+i mess with a bit of everything — security, ecommerce, automation, ai.
+i learn by building things i actually want to use.
+if something catches my attention, i figure it out and run with it.
+```
 
 <br/>
 
