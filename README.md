@@ -1,17 +1,17 @@
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=58a6ff&height=150&section=header&text=waltu&fontSize=70&fontColor=c9d1d9&animation=fadeIn&fontAlignY=50&desc=&descAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=58a6ff&height=110&section=header&text=waltu&fontSize=64&fontColor=c9d1d9&animation=fadeIn&fontAlignY=50&desc=&descAlignY=75" width="100%" alt="waltu" />
 
 <div align="center">
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=700&height=30&lines=security+%C2%B7+ecommerce+%C2%B7+crypto+%C2%B7+whatever+looks+fun;i+just+like+building+stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=700&height=40&lines=security+%C2%B7+ecommerce+%C2%B7+crypto+%C2%B7+whatever+looks+fun;i+just+like+building+stuff" alt="security, ecommerce, crypto — i just like building stuff" />
 </a>
 
 </div>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="">
 
 <br/>
 
@@ -19,55 +19,57 @@
 
 ```
 i mess with a bit of everything — security, ecommerce, automation, ai.
-no real specialty, i just pick up whatever catches my attention and run with it.
+i learn by building things i actually want to use.
+if something catches my attention, i figure it out and run with it.
 ```
 
 <br/>
 
 ## `> tech --list`
 
-<div align="center">
+<table width="100%">
+  <tr>
+    <td width="170" height="52"><strong>Languages</strong></td>
+    <td><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=3776AB" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=F7DF1E" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat&logo=typescript&logoColor=3178C6" /> <img alt="Bash" src="https://img.shields.io/badge/Bash-0d1117?style=flat&logo=gnubash&logoColor=4EAA25" /> <img alt="C++" src="https://img.shields.io/badge/C++-0d1117?style=flat&logo=cplusplus&logoColor=00599C" /> <img alt="Rust" src="https://img.shields.io/badge/Rust-0d1117?style=flat&logo=rust&logoColor=DEA584" /></td>
+  </tr>
+  <tr>
+    <td width="170" height="52"><strong>Web &amp; Commerce</strong></td>
+    <td><img alt="React" src="https://img.shields.io/badge/React-0d1117?style=flat&logo=react&logoColor=61DAFB" /> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0d1117?style=flat&logo=nextdotjs&logoColor=c9d1d9" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=flat&logo=nodedotjs&logoColor=5FA04E" /> <img alt="Shopify" src="https://img.shields.io/badge/Shopify-0d1117?style=flat&logo=shopify&logoColor=7AB55C" /> <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-0d1117?style=flat&logo=tailwindcss&logoColor=06B6D4" /></td>
+  </tr>
+  <tr>
+    <td width="170" height="52"><strong>Security &amp; Infra</strong></td>
+    <td><img alt="Linux" src="https://img.shields.io/badge/Linux-0d1117?style=flat&logo=linux&logoColor=FCC624" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=2496ED" /> <img alt="Kali" src="https://img.shields.io/badge/Kali-0d1117?style=flat&logo=kalilinux&logoColor=557C94" /> <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-0d1117?style=flat&logo=wireshark&logoColor=1679A7" /> <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-0d1117?style=flat&logo=portswigger&logoColor=FF6633" /></td>
+  </tr>
+  <tr>
+    <td width="170" height="52"><strong>AI &amp; Data</strong></td>
+    <td><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-0d1117?style=flat&logo=openai&logoColor=c9d1d9" /> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0d1117?style=flat&logo=pytorch&logoColor=EE4C2C" /> <img alt="LangChain" src="https://img.shields.io/badge/LangChain-0d1117?style=flat&logo=langchain&logoColor=1C3C3C" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=4169E1" /></td>
+  </tr>
+</table>
 
-| | |
-|-|-|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat&logo=typescript&logoColor=3178C6) ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat&logo=gnubash&logoColor=4EAA25) ![C++](https://img.shields.io/badge/C++-0d1117?style=flat&logo=cplusplus&logoColor=00599C) ![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat&logo=rust&logoColor=DEA584) |
-| **Web & Commerce** | ![React](https://img.shields.io/badge/React-0d1117?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat&logo=nextdotjs&logoColor=c9d1d9) ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat&logo=nodedotjs&logoColor=5FA04E) ![Shopify](https://img.shields.io/badge/Shopify-0d1117?style=flat&logo=shopify&logoColor=7AB55C) ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat&logo=tailwindcss&logoColor=06B6D4) |
-| **Security & Infra** | ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat&logo=linux&logoColor=FCC624) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=2496ED) ![Kali](https://img.shields.io/badge/Kali-0d1117?style=flat&logo=kalilinux&logoColor=557C94) ![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat&logo=wireshark&logoColor=1679A7) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat&logo=portswigger&logoColor=FF6633) |
-| **AI & Data** | ![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat&logo=openai&logoColor=c9d1d9) ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat&logo=pytorch&logoColor=EE4C2C) ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat&logo=langchain&logoColor=1C3C3C) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=4169E1) |
+<br/>
 
-</div>
+## `> status`
+
+```text
+[ACTIVE]   learning new tech by building with it
+[ACTIVE]   building things i'll actually use
+[QUEUED]   sleep
+```
 
 <br/>
 
 ## `> stats --graph`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waltuov&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltuov&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=waltuov&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=484F58" width="700" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=waltuov&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=484F58" width="95%" alt="GitHub contribution streak" />
 </div>
 
 <br/>
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waltuov&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waltuov&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="GitHub contribution activity graph" />
 </div>
-
-<br/>
-
-## `> status`
-
-```css
-[ACTIVE]   picking up random new tech
-[ACTIVE]   building things i'll actually use
-[QUEUED]   sleep
-```
 
 <br/>
 
@@ -87,4 +89,4 @@ no real specialty, i just pick up whatever catches my attention and run with it.
   <img src="https://komarev.com/ghpvc/?username=waltuov&style=flat&color=0d1117&label=visitors&labelColor=0d1117" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=70&section=footer" width="100%" />
