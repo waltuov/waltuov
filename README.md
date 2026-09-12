@@ -24,6 +24,17 @@ mostly working across web, ecommerce, and security.
 
 <br/>
 
+## `> inference`
+
+**LLM inference engineering / GPU system integrations**
+
+deployed and operated large open-weight MoE models on multi-GPU Blackwell infrastructure.
+
+- **serving & optimization** — quantization selection, SGLang/FlashInfer serving, tensor parallelism, speculative decoding, and long-context caching.
+- **deployment & operations** — benchmarking, security review, and reproducible cloud deployment.
+
+<br/>
+
 ## `> projects`
 
 **[Bloxsmith](https://bloxsmith.net)** — ai ui generation for roblox studio.
