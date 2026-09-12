@@ -47,20 +47,32 @@ describe an interface, refine it in chat, and sync the editable result into your
 
 <table width="100%">
   <tr>
+    <td width="170" height="44"><strong>LLM Inference</strong></td>
+    <td><img alt="SGLang" src="https://img.shields.io/badge/SGLang-0d1117?style=flat" /> <img alt="FlashInfer" src="https://img.shields.io/badge/FlashInfer-0d1117?style=flat" /> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0d1117?style=flat&amp;logo=pytorch&amp;logoColor=EE4C2C" /><br/>
+    open-weight MoE models · quantization selection · speculative decoding · long-context caching</td>
+  </tr>
+  <tr>
+    <td width="170" height="44"><strong>GPU Systems</strong></td>
+    <td><img alt="CUDA" src="https://img.shields.io/badge/CUDA-0d1117?style=flat&amp;logo=nvidia&amp;logoColor=76B900" /> <img alt="Blackwell" src="https://img.shields.io/badge/Blackwell-0d1117?style=flat&amp;logo=nvidia&amp;logoColor=76B900" /><br/>
+    4× PRO 6000 GPUs · tensor parallelism · local inference optimization · benchmarking</td>
+  </tr>
+  <tr>
     <td width="170" height="44"><strong>AI &amp; Automation</strong></td>
-    <td><img alt="Codex" src="https://img.shields.io/badge/Codex-0d1117?style=flat&amp;logoColor=c9d1d9" /> <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-0d1117?style=flat&logo=openai&logoColor=c9d1d9" /> <img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=3776AB" /> <img alt="Bash" src="https://img.shields.io/badge/Bash-0d1117?style=flat&logo=gnubash&logoColor=4EAA25" /></td>
+    <td><img alt="Codex" src="https://img.shields.io/badge/Codex-0d1117?style=flat" /> <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-0d1117?style=flat" /> <img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=flat&amp;logo=python&amp;logoColor=3776AB" /> <img alt="Bash" src="https://img.shields.io/badge/Bash-0d1117?style=flat&amp;logo=gnubash&amp;logoColor=4EAA25" /></td>
   </tr>
   <tr>
     <td width="170" height="44"><strong>Web &amp; Commerce</strong></td>
-    <td><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat&logo=typescript&logoColor=3178C6" /> <img alt="React" src="https://img.shields.io/badge/React-0d1117?style=flat&logo=react&logoColor=61DAFB" /> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0d1117?style=flat&logo=nextdotjs&logoColor=c9d1d9" /> <img alt="Shopify" src="https://img.shields.io/badge/Shopify-0d1117?style=flat&logo=shopify&logoColor=7AB55C" /></td>
+    <td><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=flat&amp;logo=typescript&amp;logoColor=3178C6" /> <img alt="React" src="https://img.shields.io/badge/React-0d1117?style=flat&amp;logo=react&amp;logoColor=61DAFB" /> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0d1117?style=flat&amp;logo=nextdotjs&amp;logoColor=c9d1d9" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=flat&amp;logo=nodedotjs&amp;logoColor=5FA04E" /> <img alt="Shopify" src="https://img.shields.io/badge/Shopify-0d1117?style=flat&amp;logo=shopify&amp;logoColor=7AB55C" /> <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-0d1117?style=flat&amp;logo=tailwindcss&amp;logoColor=06B6D4" /></td>
   </tr>
   <tr>
     <td width="170" height="44"><strong>Infra &amp; Data</strong></td>
-    <td><img alt="Linux" src="https://img.shields.io/badge/Linux-0d1117?style=flat&logo=linux&logoColor=FCC624" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=2496ED" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=4169E1" /></td>
+    <td><img alt="Linux" src="https://img.shields.io/badge/Linux-0d1117?style=flat&amp;logo=linux&amp;logoColor=FCC624" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-0d1117?style=flat&amp;logo=docker&amp;logoColor=2496ED" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&amp;logo=postgresql&amp;logoColor=4169E1" /><br/>
+    reproducible cloud deployment</td>
   </tr>
   <tr>
     <td width="170" height="44"><strong>Security</strong></td>
-    <td><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-0d1117?style=flat&logo=wireshark&logoColor=1679A7" /> <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-0d1117?style=flat&logo=portswigger&logoColor=FF6633" /></td>
+    <td><img alt="Kali" src="https://img.shields.io/badge/Kali-0d1117?style=flat&amp;logo=kalilinux&amp;logoColor=557C94" /> <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-0d1117?style=flat&amp;logo=wireshark&amp;logoColor=1679A7" /> <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-0d1117?style=flat&amp;logo=portswigger&amp;logoColor=FF6633" /><br/>
+    security review</td>
   </tr>
 </table>
 
