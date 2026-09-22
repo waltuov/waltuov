@@ -43,6 +43,14 @@ describe an interface, refine it in chat, and sync the editable result into your
 
 <br/>
 
+## `> open source`
+
+contributing fixes and tests, and looking for more useful problems to work on.
+
+- **pnpm** — fixed override handling in `update --no-save`, with regression tests. [merged PR #15261](https://github.com/pnpm/pnpm/pull/15261)
+
+<br/>
+
 ## `> toolkit`
 
 <table width="100%">
