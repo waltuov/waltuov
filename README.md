@@ -45,7 +45,8 @@ describe an interface, refine it in chat, and sync the editable result into your
 
 ## `> open source`
 
-- **pnpm** — fixed override handling in `update --no-save`, with regression tests. [merged PR #15261](https://github.com/pnpm/pnpm/pull/15261)
+- **pnpm**: fixed override handling in `update --no-save`, with regression tests. [merged PR #15261](https://github.com/pnpm/pnpm/pull/15261)
+- **pnpm**: package removal now waits out Windows file locks instead of failing. [merged PR #15409](https://github.com/pnpm/pnpm/pull/15409)
 
 <br/>
 
