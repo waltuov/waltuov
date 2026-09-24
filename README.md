@@ -52,6 +52,7 @@ describe an interface, refine it in chat, and sync the editable result into your
 - **pnpm**: switching to the pnpm version a project pins now keeps its release age approvals when the project has no workspace file. [merged PR #15461](https://github.com/pnpm/pnpm/pull/15461)
 - **wasm-bindgen**: the headless test runner keeps the path of a remote WebDriver URL. [merged PR #5345](https://github.com/wasm-bindgen/wasm-bindgen/pull/5345)
 - **wasm-bindgen**: the schema mismatch error now names the Wasm file and the CLI binary. [merged PR #5346](https://github.com/wasm-bindgen/wasm-bindgen/pull/5346)
+- **wasm-bindgen**: getters for public struct fields no longer trigger `unsafe_op_in_unsafe_fn` when the struct comes from a macro such as `paste!` (edition 2024). [merged PR #5347](https://github.com/wasm-bindgen/wasm-bindgen/pull/5347)
 - **cc-rs**: `-Ctarget-feature` from `RUSTFLAGS` now reaches GCC and Clang for x86 and x86_64. [merged PR #1948](https://github.com/rust-lang/cc-rs/pull/1948)
 - **cc-rs**: a `/link` flag passed to MSVC no longer breaks the compile; it is dropped with a warning that points to `cargo:rustc-link-arg`. [merged PR #1949](https://github.com/rust-lang/cc-rs/pull/1949)
 - **cc-rs**: `expand()` with MSVC no longer shows the source file name as a cargo warning. [merged PR #1950](https://github.com/rust-lang/cc-rs/pull/1950)
