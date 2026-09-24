@@ -45,6 +45,8 @@ describe an interface, refine it in chat, and sync the editable result into your
 
 ## `> open source`
 
+11 merged PRs in [pnpm](https://github.com/pnpm/pnpm), [wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) and [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs): bug fixes with regression tests.
+
 - **pnpm**: fixed override handling in `update --no-save`, with regression tests. [merged PR #15261](https://github.com/pnpm/pnpm/pull/15261)
 - **pnpm**: package removal now waits out Windows file locks instead of failing. [merged PR #15409](https://github.com/pnpm/pnpm/pull/15409)
 - **pnpm**: a `devEngines.runtime` range like `^22.18.0 || ^24.0.0` no longer installs the npm package `node` and breaks every script. [merged PR #15443](https://github.com/pnpm/pnpm/pull/15443)
