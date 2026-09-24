@@ -15,6 +15,7 @@ merged bug fixes in pnpm, wasm-bindgen and rust-lang/cc-rs.
 - pnpm: `deploy --legacy` no longer marks the source workspace as outdated ([#15458](https://github.com/pnpm/pnpm/pull/15458))
 - pnpm: switching to a pinned pnpm version keeps release age approvals without a workspace file ([#15461](https://github.com/pnpm/pnpm/pull/15461))
 - pnpm: `publish` now honors a scoped registry set in `publishConfig` ([#15574](https://github.com/pnpm/pnpm/pull/15574))
+- pnpm: `patch-commit` patches with a no-newline marker mid-hunk apply again ([#15554](https://github.com/pnpm/pnpm/pull/15554))
 - wasm-bindgen: the headless test runner keeps the path of a remote webdriver url ([#5345](https://github.com/wasm-bindgen/wasm-bindgen/pull/5345))
 - wasm-bindgen: the schema mismatch error names the wasm file and the cli binary ([#5346](https://github.com/wasm-bindgen/wasm-bindgen/pull/5346))
 - wasm-bindgen: field getters no longer trip `unsafe_op_in_unsafe_fn` inside macros ([#5347](https://github.com/wasm-bindgen/wasm-bindgen/pull/5347))
