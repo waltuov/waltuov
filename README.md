@@ -19,6 +19,7 @@ merged bug fixes in pnpm, wasm-bindgen and rust-lang/cc-rs.
 - wasm-bindgen: the headless test runner keeps the path of a remote webdriver url ([#5345](https://github.com/wasm-bindgen/wasm-bindgen/pull/5345))
 - wasm-bindgen: the schema mismatch error names the wasm file and the cli binary ([#5346](https://github.com/wasm-bindgen/wasm-bindgen/pull/5346))
 - wasm-bindgen: field getters no longer trip `unsafe_op_in_unsafe_fn` inside macros ([#5347](https://github.com/wasm-bindgen/wasm-bindgen/pull/5347))
+- wasm-bindgen: `inspectable` tuple structs get a valid `toJSON` again ([#5349](https://github.com/wasm-bindgen/wasm-bindgen/pull/5349))
 - cc-rs: `-Ctarget-feature` from `RUSTFLAGS` now reaches gcc and clang on x86 ([#1948](https://github.com/rust-lang/cc-rs/pull/1948))
 - cc-rs: a `/link` flag no longer breaks msvc builds, it gets dropped with a warning ([#1949](https://github.com/rust-lang/cc-rs/pull/1949))
 - cc-rs: `expand()` with msvc no longer prints the file name as a warning ([#1950](https://github.com/rust-lang/cc-rs/pull/1950))
