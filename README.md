@@ -32,4 +32,4 @@ deployed, operated and tuned large open-weight moe models for local inference on
 ## `> get in touch`
 
 - email: waltuecom@gmail.com
-- happy to talk about pnpm, rust and typescript build tooling, and windows bugs
+- happy to talk about anything, just reach out
