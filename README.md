@@ -29,6 +29,7 @@ merged bug fixes in pnpm, wasm-bindgen and rust-lang/cc-rs.
 
 deployed, operated and tuned large open-weight moe models for local inference on 4× PRO 6000 Blackwell GPUs: quantization, sglang/flashinfer serving, tensor parallelism, speculative decoding, long-context caching, benchmarking and reproducible cloud deployment.
 
-## `> contact`
+## `> get in touch`
 
-waltuecom@gmail.com
+- email: waltuecom@gmail.com
+- happy to talk about pnpm, rust and typescript build tooling, and windows bugs
