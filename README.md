@@ -47,6 +47,14 @@ describe an interface, refine it in chat, and sync the editable result into your
 
 - **pnpm**: fixed override handling in `update --no-save`, with regression tests. [merged PR #15261](https://github.com/pnpm/pnpm/pull/15261)
 - **pnpm**: package removal now waits out Windows file locks instead of failing. [merged PR #15409](https://github.com/pnpm/pnpm/pull/15409)
+- **pnpm**: `deploy --legacy` no longer marks the source workspace as out of date. [merged PR #15458](https://github.com/pnpm/pnpm/pull/15458)
+- **pnpm**: switching to the pnpm version a project pins now keeps its release age approvals when the project has no workspace file. [merged PR #15461](https://github.com/pnpm/pnpm/pull/15461)
+- **wasm-bindgen**: the headless test runner keeps the path of a remote WebDriver URL. [merged PR #5345](https://github.com/wasm-bindgen/wasm-bindgen/pull/5345)
+- **wasm-bindgen**: the schema mismatch error now names the Wasm file and the CLI binary. [merged PR #5346](https://github.com/wasm-bindgen/wasm-bindgen/pull/5346)
+
+> "Nice, thank you. [...] this is very much appreciated."
+>
+> <sub>guybedford, wasm-bindgen maintainer, [on #5346](https://github.com/wasm-bindgen/wasm-bindgen/pull/5346#pullrequestreview-5301247385)</sub>
 
 <br/>
 
