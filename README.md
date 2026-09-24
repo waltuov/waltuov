@@ -54,6 +54,7 @@ describe an interface, refine it in chat, and sync the editable result into your
 - **wasm-bindgen**: the schema mismatch error now names the Wasm file and the CLI binary. [merged PR #5346](https://github.com/wasm-bindgen/wasm-bindgen/pull/5346)
 - **cc-rs**: `-Ctarget-feature` from `RUSTFLAGS` now reaches GCC and Clang for x86 and x86_64. [merged PR #1948](https://github.com/rust-lang/cc-rs/pull/1948)
 - **cc-rs**: a `/link` flag passed to MSVC no longer breaks the compile; it is dropped with a warning that points to `cargo:rustc-link-arg`. [merged PR #1949](https://github.com/rust-lang/cc-rs/pull/1949)
+- **cc-rs**: `expand()` with MSVC no longer shows the source file name as a cargo warning. [merged PR #1950](https://github.com/rust-lang/cc-rs/pull/1950)
 
 <br/>
 
