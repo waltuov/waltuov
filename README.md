@@ -52,6 +52,7 @@ describe an interface, refine it in chat, and sync the editable result into your
 - **pnpm**: switching to the pnpm version a project pins now keeps its release age approvals when the project has no workspace file. [merged PR #15461](https://github.com/pnpm/pnpm/pull/15461)
 - **wasm-bindgen**: the headless test runner keeps the path of a remote WebDriver URL. [merged PR #5345](https://github.com/wasm-bindgen/wasm-bindgen/pull/5345)
 - **wasm-bindgen**: the schema mismatch error now names the Wasm file and the CLI binary. [merged PR #5346](https://github.com/wasm-bindgen/wasm-bindgen/pull/5346)
+- **cc-rs**: `-Ctarget-feature` from `RUSTFLAGS` now reaches GCC and Clang for x86 and x86_64. [merged PR #1948](https://github.com/rust-lang/cc-rs/pull/1948)
 
 <br/>
 
