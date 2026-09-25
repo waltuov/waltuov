@@ -21,7 +21,7 @@ currently working on the oxc minifier, with rolldown next to it. some merged fix
 
 ## `> projects`
 
-**[Bloxsmith](https://bloxsmith.net)**: ai ui generation for roblox studio. describe an interface, refine it in chat, and sync the editable result into your game.
+**[Bloxsmith](https://bloxsmith.net)**: ai ui generation for roblox studio. describe an interface, refine it in chat, and sync the editable result into your game. ~19k signups so far.
 
 ## `> inference`
 
