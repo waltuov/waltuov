@@ -15,6 +15,7 @@ currently working on the oxc minifier, with rolldown next to it. some merged fix
 - wasm-bindgen: field getters no longer trip `unsafe_op_in_unsafe_fn` inside macros ([#5347](https://github.com/wasm-bindgen/wasm-bindgen/pull/5347))
 - wasm-bindgen: `inspectable` tuple structs get a valid `toJSON` again ([#5349](https://github.com/wasm-bindgen/wasm-bindgen/pull/5349))
 - cc-rs: `-Ctarget-feature` from `RUSTFLAGS` now reaches gcc and clang on x86 ([#1948](https://github.com/rust-lang/cc-rs/pull/1948))
+- cc-rs: the static c++ stdlib now links with `-bundle`, so it works with mingw ([#1955](https://github.com/rust-lang/cc-rs/pull/1955))
 - svelte: `let:` next to a `children` snippet is now a compile error instead of a runtime crash ([#18873](https://github.com/sveltejs/svelte/pull/18873))
 
 [all merged prs](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Awaltuov+-user%3Awaltuov&type=pullrequests)
