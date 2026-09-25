@@ -7,7 +7,7 @@ also: web, ecommerce, security, local llm inference.
 
 ## `> open source`
 
-merged bug fixes in pnpm, wasm-bindgen and rust-lang/cc-rs.
+merged bug fixes in pnpm, wasm-bindgen, rust-lang/cc-rs, oxc and svelte.
 
 - pnpm: `update --no-save` now respects overrides ([#15261](https://github.com/pnpm/pnpm/pull/15261))
 - pnpm: package removal waits out windows file locks instead of failing ([#15409](https://github.com/pnpm/pnpm/pull/15409))
@@ -24,6 +24,8 @@ merged bug fixes in pnpm, wasm-bindgen and rust-lang/cc-rs.
 - cc-rs: `-Ctarget-feature` from `RUSTFLAGS` now reaches gcc and clang on x86 ([#1948](https://github.com/rust-lang/cc-rs/pull/1948))
 - cc-rs: a `/link` flag no longer breaks msvc builds, it gets dropped with a warning ([#1949](https://github.com/rust-lang/cc-rs/pull/1949))
 - cc-rs: `expand()` with msvc no longer prints the file name as a warning ([#1950](https://github.com/rust-lang/cc-rs/pull/1950))
+- oxc: oxfmt no longer drops a comment before `=` and prints the one after it twice ([#26997](https://github.com/oxc-project/oxc/pull/26997))
+- svelte: `let:` next to a `children` snippet is now a compile error instead of a runtime crash ([#18873](https://github.com/sveltejs/svelte/pull/18873))
 
 ## `> projects`
 
