@@ -14,7 +14,7 @@ currently working on the oxc minifier, with rolldown next to it. some merged fix
 - tokio: output written through `tokio::io::stdout()` no longer gets lost when the runtime shuts down ([#8506](https://github.com/tokio-rs/tokio/pull/8506))
 - pnpm: package removal waits out windows file locks instead of failing ([#15409](https://github.com/pnpm/pnpm/pull/15409))
 - wasm-bindgen: field getters no longer trip `unsafe_op_in_unsafe_fn` inside macros ([#5347](https://github.com/wasm-bindgen/wasm-bindgen/pull/5347))
-- cc-rs: `-Ctarget-feature` from `RUSTFLAGS` now reaches gcc and clang on x86 ([#1948](https://github.com/rust-lang/cc-rs/pull/1948))
+- cc-rs: build scripts can now get cc's warnings and errors as structured messages through `Build::message_logger` ([#1967](https://github.com/rust-lang/cc-rs/pull/1967))
 - cc-rs: the static c++ stdlib now links with `-bundle`, so it works with mingw, and a new `CXXSTDLIB_STATIC` env var turns it on from outside the crate ([#1955](https://github.com/rust-lang/cc-rs/pull/1955), [#1957](https://github.com/rust-lang/cc-rs/pull/1957))
 - svelte: `let:` next to a `children` snippet is now a compile error instead of a runtime crash ([#18873](https://github.com/sveltejs/svelte/pull/18873))
 
