@@ -12,6 +12,7 @@ currently working on the oxc minifier, with rolldown next to it. some merged fix
 - oxc: oxfmt no longer drops a comment before `=` and prints the one after it twice ([#26997](https://github.com/oxc-project/oxc/pull/26997))
 - rolldown: dev mode now notices a deleted or recreated file instead of serving a stale resolve ([#10986](https://github.com/rolldown/rolldown/pull/10986))
 - tokio: output written through `tokio::io::stdout()` no longer gets lost when the runtime shuts down ([#8506](https://github.com/tokio-rs/tokio/pull/8506))
+- mio: vectored reads and writes on windows named pipes now use every buffer, not just the first ([#2013](https://github.com/tokio-rs/mio/pull/2013))
 - pnpm: package removal waits out windows file locks instead of failing ([#15409](https://github.com/pnpm/pnpm/pull/15409))
 - wasm-bindgen: field getters no longer trip `unsafe_op_in_unsafe_fn` inside macros ([#5347](https://github.com/wasm-bindgen/wasm-bindgen/pull/5347))
 - cc-rs: build scripts can now split compiling, archiving and linking with `Build::create_archive` and `emit_link_directives`, and still get cc's link setup right ([#1972](https://github.com/rust-lang/cc-rs/pull/1972))
