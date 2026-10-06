@@ -17,6 +17,7 @@ mostly working on cc-rs, plus tokio and mio on windows. also wasm-bindgen, rolld
 - wasm-bindgen: two `inline_js` snippets that import the same name now each get their own binding instead of silently sharing one ([#5352](https://github.com/wasm-bindgen/wasm-bindgen/pull/5352))
 - pnpm: package removal waits out windows file locks instead of failing ([#15409](https://github.com/pnpm/pnpm/pull/15409))
 - rolldown: dev mode now notices a deleted or recreated file instead of serving a stale resolve ([#10986](https://github.com/rolldown/rolldown/pull/10986))
+- rolldown: `preserveModules` builds now sanitize chunk names like `Comp.vue?vue&type=script`, which broke vue library builds on windows ([#11087](https://github.com/rolldown/rolldown/pull/11087))
 - oxc: oxfmt no longer drops a comment before `=` and prints the one after it twice ([#26997](https://github.com/oxc-project/oxc/pull/26997))
 - insta: `cargo insta test --all-targets` with nextest no longer fails on its separate doctest run ([#941](https://github.com/mitsuhiko/insta/pull/941))
 - svelte: `let:` next to a `children` snippet is now a compile error instead of a runtime crash ([#18873](https://github.com/sveltejs/svelte/pull/18873))
