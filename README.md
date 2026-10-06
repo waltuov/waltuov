@@ -14,7 +14,7 @@ currently working on the oxc minifier, with rolldown next to it. some merged fix
 - tokio: output written through `tokio::io::stdout()` no longer gets lost when the runtime shuts down ([#8506](https://github.com/tokio-rs/tokio/pull/8506))
 - mio: vectored reads and writes on windows named pipes now use every buffer, not just the first ([#2013](https://github.com/tokio-rs/mio/pull/2013))
 - pnpm: package removal waits out windows file locks instead of failing ([#15409](https://github.com/pnpm/pnpm/pull/15409))
-- wasm-bindgen: field getters no longer trip `unsafe_op_in_unsafe_fn` inside macros ([#5347](https://github.com/wasm-bindgen/wasm-bindgen/pull/5347))
+- wasm-bindgen: two `inline_js` snippets that import the same name now each get their own binding instead of silently sharing one ([#5352](https://github.com/wasm-bindgen/wasm-bindgen/pull/5352))
 - cc-rs: build scripts can now split compiling, archiving and linking with `Build::create_archive` and `emit_link_directives`, and still get cc's link setup right ([#1972](https://github.com/rust-lang/cc-rs/pull/1972))
 - cc-rs: the static c++ stdlib now links with `-bundle`, so it works with mingw, and a new `CXXSTDLIB_STATIC` env var turns it on from outside the crate ([#1955](https://github.com/rust-lang/cc-rs/pull/1955), [#1957](https://github.com/rust-lang/cc-rs/pull/1957))
 - insta: `cargo insta test --all-targets` with nextest no longer fails on its separate doctest run ([#941](https://github.com/mitsuhiko/insta/pull/941))
