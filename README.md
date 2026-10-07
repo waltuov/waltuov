@@ -24,6 +24,8 @@ mostly working on cc-rs, plus tokio and mio on windows. also wasm-bindgen, rolld
 
 [all merged prs](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Awaltuov+-user%3Awaltuov&type=pullrequests)
 
+writing: [why windows named pipe reads in mio stopped at 4 KiB](https://waltuov.github.io/posts/mio-named-pipe-reads/), more at [waltuov.github.io](https://waltuov.github.io)
+
 ## `> projects`
 
 **[Bloxsmith](https://bloxsmith.net)**: ai ui generation for roblox studio. describe an interface, refine it in chat, and sync the editable result into your game. ~20k signups so far.
