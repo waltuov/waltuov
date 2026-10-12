@@ -9,8 +9,8 @@ also: web, ecommerce, security, local llm inference.
 
 mostly working on cc-rs, plus tokio and mio on windows. also wasm-bindgen, rolldown and oxc. some merged fixes:
 
+- cc-rs: build scripts can now collect the commands cc runs and write a `compile_commands.json`, so clangd and other c tooling understand the c code in rust crates. asked for since 2020 ([#1990](https://github.com/rust-lang/cc-rs/pull/1990))
 - cc-rs: masm files for x86 windows targets now fall back to `llvm-ml` when `ml64.exe` isn't there, so they cross compile from linux and macos, and `CC_MASM_ASM` picks the assembler ([#1975](https://github.com/rust-lang/cc-rs/pull/1975))
-- cc-rs: build scripts can now split compiling, archiving and linking with `Build::create_archive` and `emit_link_directives`, and still get cc's link setup right ([#1972](https://github.com/rust-lang/cc-rs/pull/1972))
 - cc-rs: c++ stdlib linking: cc now links `libc++` when clang uses it instead of assuming `libstdc++`, the static stdlib links with `-bundle` so it works with mingw, and `CXXSTDLIB_STATIC` turns it on from outside the crate ([#1978](https://github.com/rust-lang/cc-rs/pull/1978), [#1955](https://github.com/rust-lang/cc-rs/pull/1955), [#1957](https://github.com/rust-lang/cc-rs/pull/1957))
 - mio: windows named pipes now use every buffer in vectored reads and writes, and size reads to the caller's buffer (up to 64 KiB) instead of always 4 KiB ([#2013](https://github.com/tokio-rs/mio/pull/2013), [#2022](https://github.com/tokio-rs/mio/pull/2022))
 - tokio: output written through `tokio::io::stdout()` no longer gets lost when the runtime shuts down ([#8506](https://github.com/tokio-rs/tokio/pull/8506))
