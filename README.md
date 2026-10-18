@@ -1,4 +1,6 @@
-hi, i'm waltu. i do rust and typescript build tooling and fix bugs upstream, mostly in [cc-rs](https://github.com/rust-lang/cc-rs) right now, plus tokio and mio on windows. i build with ai. also web, ecommerce and security stuff.
+hi, i'm waltu. i'm self-employed and have been making and running my own projects in different niches since i was a teen. one of them is [Bloxsmith](https://bloxsmith.net): ai ui generation for roblox studio, ~20k signups so far.
+
+on the open source side i work on rust and typescript build tooling and fix bugs upstream, mostly in [cc-rs](https://github.com/rust-lang/cc-rs) right now, plus tokio and mio on windows. i build with ai. also web, ecommerce and security stuff.
 
 ### some merged prs
 
@@ -17,9 +19,8 @@ hi, i'm waltu. i do rust and typescript build tooling and fix bugs upstream, mos
 
 [all of them](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Awaltuov+-user%3Awaltuov&type=pullrequests)
 
-### other stuff
+### local inference
 
-- [Bloxsmith](https://bloxsmith.net): ai ui generation for roblox studio, ~20k signups so far
-- local inference: deployed and tuned big open-weight moe models on 4x pro 6000 blackwell gpus (sglang, quantization, speculative decoding, long context)
+deployed and tuned big open-weight moe models on 4x pro 6000 blackwell gpus (sglang, quantization, speculative decoding, long context).
 
 waltuecom@gmail.com if you want to chat
