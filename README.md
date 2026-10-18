@@ -1,4 +1,4 @@
-hi, i'm waltu. i'm self-employed and have been making and running my own projects in different niches since i was a teen. one of them is [Bloxsmith](https://bloxsmith.net): ai ui generation for roblox studio, ~20k signups so far.
+hi, i'm waltu. i'm self-employed and have been making and running my own projects in different niches since i was a teen. one of them is [Bloxsmith](https://bloxsmith.net): ai ui generation for roblox studio, 21k+ signups so far.
 
 on the open source side i work on rust and typescript build tooling and fix bugs upstream, mostly in [cc-rs](https://github.com/rust-lang/cc-rs) right now, plus tokio and mio on windows. i build with ai. also web, ecommerce and security stuff.
 
