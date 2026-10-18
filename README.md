@@ -1,4 +1,4 @@
-hi, i'm waltu. i'm self-employed and have been making and running my own projects in different niches since i was a teen. right now that's ai products and rust build tooling. i build with ai.
+hi, i'm waltu. i'm self-employed and have been making and running my own projects in different niches since i was a teen. right now that's ai products and rust build tooling. when a topic grabs me, usually something in engineering, ai or security, i zone in on it for hours and forget to eat. i build with ai.
 
 ### my own work
 
@@ -19,4 +19,4 @@ most of my upstream work is in [cc-rs](https://github.com/rust-lang/cc-rs), the 
 
 [all merged prs](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Awaltuov+-user%3Awaltuov&type=pullrequests)
 
-waltuecom@gmail.com if you want to chat
+not in a rush, but open to the right role, ideally at a startup doing ai, dev tools or security. waltuecom@gmail.com if you want to chat
