@@ -19,4 +19,4 @@ most of my upstream work is in [cc-rs](https://github.com/rust-lang/cc-rs), the 
 
 [all merged prs](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Awaltuov+-user%3Awaltuov&type=pullrequests)
 
-not in a rush, but open to the right role, ideally at a startup doing ai, dev tools or security. waltuecom@gmail.com if you want to chat
+open to the right role. waltuecom@gmail.com if you want to chat
