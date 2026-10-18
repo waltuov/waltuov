@@ -1,9 +1,11 @@
-hi, i'm waltu. i'm self-employed and have run my own projects since i was a teen: online stores, tiktok pages and software, some of which grew into real businesses. my current focus is ai products and rust build tooling. i like getting deep into one problem for hours, mostly in engineering, ai or security. i build with ai.
+hi, i'm waltu. over the years i've run online stores, grown tiktok pages to millions of views and shipped my own software. these days it's mostly ai products and rust build tooling.
+
+what i like most is going deep on one hard problem for hours: reverse engineering, tracing scammers and threat actors, or a build bug that sat open for years. i build with ai.
 
 ### my own work
 
 - [Bloxsmith](https://bloxsmith.net): ai ui generation for roblox studio. describe an interface, refine it in chat, and sync the editable result into your game. 21k+ signups so far.
-- local inference: deployed and tuned big open-weight moe models on 4x pro 6000 blackwell gpus (sglang, quantization, speculative decoding, long context).
+- local inference: deployed and tuned big open-weight moe models on 4x pro 6000 blackwell gpus, served with sglang.
 
 ### open source
 
