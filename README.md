@@ -1,4 +1,4 @@
-hi, i'm waltu. i'm self-employed and have been making and running my own projects since i was a teen, from online stores and tiktok pages to software. right now that's ai products and rust build tooling. i like getting deep into one problem for hours, mostly in engineering, ai or security. i build with ai.
+hi, i'm waltu. i'm self-employed and have run my own projects since i was a teen: online stores, tiktok pages and software, some of which grew into real businesses. my current focus is ai products and rust build tooling. i like getting deep into one problem for hours, mostly in engineering, ai or security. i build with ai.
 
 ### my own work
 
