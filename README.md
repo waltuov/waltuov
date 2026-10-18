@@ -7,7 +7,7 @@ hi, i'm waltu. i'm self-employed and have been making and running my own project
 
 ### open source
 
-most of my upstream work is in [cc-rs](https://github.com/rust-lang/cc-rs), the crate rust build scripts use to compile c and c++ code (over a billion downloads). 20+ merged prs there so far, some of them:
+most of my upstream work is in [cc-rs](https://github.com/rust-lang/cc-rs), the crate rust build scripts use to compile c and c++ code. 20+ merged prs there so far, some of them:
 
 - cc-rs: `compile_commands.json` output, so clangd and other c tools understand the c code in rust crates. asked for since 2020 ([#1990](https://github.com/rust-lang/cc-rs/pull/1990))
 - cc-rs: masm falls back to `llvm-ml`, so x86 windows targets cross compile from linux and macos ([#1975](https://github.com/rust-lang/cc-rs/pull/1975))
