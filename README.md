@@ -1,4 +1,4 @@
-hi, i'm waltu. i'm self-employed and have been making and running my own projects in different niches since i was a teen. right now that's ai products and rust build tooling. when a topic grabs me, usually something in engineering, ai or security, i zone in on it for hours and forget to eat. i build with ai.
+hi, i'm waltu. i'm self-employed and have been making and running my own projects in different niches since i was a teen. right now that's ai products and rust build tooling. i like getting deep into one problem for hours, mostly in engineering, ai or security. i build with ai.
 
 ### my own work
 
