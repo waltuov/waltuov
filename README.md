@@ -1,6 +1,6 @@
 hi, i'm waltu. over the years i've run online stores, grown tiktok pages to millions of views and shipped my own software. these days it's mostly ai products and rust build tooling.
 
-what i like most is going deep on one hard problem for hours: reverse engineering, tracing scammers and threat actors, or a build bug that sat open for years. i build with ai.
+what i like most is going deep on one hard problem for hours: reverse engineering, tracing scammers and threat actors on-chain, or a build bug that sat open for years. i build with ai.
 
 ### my own work
 
