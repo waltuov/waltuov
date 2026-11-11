@@ -1,6 +1,6 @@
 hi, i'm waltu. i build ai products and work on rust build tooling.
 
-what i like most is going deep on one hard problem for hours: reverse engineering, tracing scammers and threat actors on-chain, or a build bug that sat open for years. i build with ai.
+what i like most is going deep on one hard problem for hours: reverse engineering or a build bug that sat open for years. i build with ai.
 
 ### my own work
 
